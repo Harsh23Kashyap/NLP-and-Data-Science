@@ -8,6 +8,8 @@ There have been many recent advances in the field of Artificial Intelligence.
 The objective of the course is to provide exposure to these advances and facilitate in depth
 discussion on chosen topics.
 
+#TOPICS COVERED
+
 Introduction to Artificial Intelligence.
 
 Fundamentals of Natural Language Processing and its applications.
