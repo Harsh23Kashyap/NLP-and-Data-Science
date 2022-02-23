@@ -8,7 +8,7 @@ There have been many recent advances in the field of Artificial Intelligence.
 The objective of the course is to provide exposure to these advances and facilitate in depth
 discussion on chosen topics.
 
-#TOPICS COVERED
+<h1>TOPICS COVERED</h1>
 
 Introduction to Artificial Intelligence.
 
